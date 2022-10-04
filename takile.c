@@ -1,4 +1,4 @@
-/* TAKiLE -- A very simple editor in less than 1-takile lines of code (as counted
+	/* TAKiLE -- A very simple editor in less than 1-takile lines of code (as counted
  *         by "cloc"). Does not depend on libcurses, directly emits VT100
  *         escapes on the terminal.
  *
